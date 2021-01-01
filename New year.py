@@ -2,8 +2,6 @@
 Import happiness;
 Import health;
 Import wealth;
-Import new hack;
-Import new bug;
 
 Public class p0tat0
 {
@@ -19,3 +17,4 @@ Public class p0tat0
     pop(all);
   System.out.println(“wish you a very happy and prosperous NEW YEAR”);
 }
+
